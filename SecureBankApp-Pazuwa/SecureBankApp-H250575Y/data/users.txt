@@ -1,0 +1,3 @@
+# username|salt(Base64)|pbkdf2Iterations|passwordHash(Base64)
+macdonald|wL1BUKB3kydFzsQAqviEEg==|600000|GMLgG2gY9/VO/8kr/7ews8Vwk9UZeWvmF9dUPhHld/o=
+stewie|sXEzadaWRcGTHPHCY+icTw==|600000|ubfFP/MshFFFDNpqjrhdp4vgfNugLMTJoD9bGC0IYTo=
